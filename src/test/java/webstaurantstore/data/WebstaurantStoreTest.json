@@ -1,0 +1,12 @@
+[
+{
+	"product": "stainless work table",
+	"productSearchCriteria": "Table",
+	"cartEmptyMessage": "Your cart is empty."
+},
+{
+	"product": "plate",
+	"productSearchCriteria": "Plate",
+	"cartEmptyMessage": "Your cart is empty."
+}
+]
